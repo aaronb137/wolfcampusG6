@@ -19,10 +19,10 @@ pieces of advice, advisements, and overall morale support from our faculty which
 ## Tech Stack
 Javascript      
 VueJS 3     
-Vuetify 3
+Vuetify 3  
 NodeJS      
 Python w/Flask   
-Firebase
+Firebase  
 Python         
 PyTorch
 
