@@ -31,4 +31,5 @@ PyTorch
 https://github.com/clintvega  
 https://github.com/Dre-Mylove  
 https://github.com/lfeldman1  
-https://github.com/fattyboomboom
+https://github.com/fattyboomboom  
+https://github.com/aaronb137
