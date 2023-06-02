@@ -26,4 +26,9 @@ Firebase
 Python         
 PyTorch
 
+## Collaborators
 
+https://github.com/clintvega  
+https://github.com/Dre-Mylove  
+https://github.com/lfeldman1  
+https://github.com/fattyboomboom
