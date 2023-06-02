@@ -15,8 +15,13 @@ At the moment of finishing CS426, our final image for our project is nowhere nea
 pieces of advice, advisements, and overall morale support from our faculty which we are forever grateful for; this is the culmination of all of our hardships and sleepless nights.
 
 ## Tech Stack
-Javascript      VueJS 3     Vuetify 3
-NodeJS      Python w/Flask   Firebase
-Python         PyTorch
+Javascript      
+VueJS 3     
+Vuetify 3
+NodeJS      
+Python w/Flask   
+Firebase
+Python         
+PyTorch
 
 
