@@ -1,4 +1,4 @@
-## ***WolfCampus***
+## ***WolfCampus*** by Aaron B. , Clint V. , Deandre M. , Melanie B. , Lauren F.
 
 Built using Vue 3 and Firebase 9
 You can find our design documentation at this link:
