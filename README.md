@@ -3,6 +3,7 @@
 Built using Vue 3 and Firebase 9
 
 You can find our design documentation at this link:
+
 https://docs.google.com/document/d/1Pqg7nBARuD2jmPpGTi0ShnbJM_W-k38oNcZfoDlp5v4/edit?usp=sharing
 
 ## Project Description
