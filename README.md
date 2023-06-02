@@ -20,9 +20,11 @@ pieces of advice, advisements, and overall morale support from our faculty which
 Javascript      
 VueJS 3     
 Vuetify 3
+
 NodeJS      
 Python w/Flask   
 Firebase
+
 Python         
 PyTorch
 
